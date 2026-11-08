@@ -1,0 +1,14 @@
+{
+  "sourceName": "Miruro CX (Experimental)",
+  "author": {"name": "Community adaptation"},
+  "version": "0.1.0",
+  "baseUrl": "https://miruro.cx",
+  "searchBaseUrl": "https://miruro.cx/?q=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/johnathansigma67/ShiroX-Miruro-CX/main/miruro.js",
+  "type": "anime",
+  "asyncJS": true,
+  "streamType": "HLS",
+  "quality": "Auto",
+  "language": "English",
+  "softsub": true
+}
